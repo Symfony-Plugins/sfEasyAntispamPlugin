@@ -1,2 +1,2 @@
-config/antispam.yml:
-  class:    dkAntispamConfigHandler
+config/sfEasyAntispamPlugin.yml:
+  class: sfEasyAntispamPluginConfigHandler

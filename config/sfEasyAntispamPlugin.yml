@@ -1,0 +1,12 @@
+all:
+  basic:
+    words:
+      - cialis
+      - ciallis
+      - penis
+      - viagra
+      - rollex
+      - enlarge
+  akismet:
+    api_key: b8695b1fab2a
+    site_url: http://example.com
